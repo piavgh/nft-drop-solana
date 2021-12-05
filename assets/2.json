@@ -1,0 +1,19 @@
+{
+  "name": "Xuka",
+  "symbol": "xuka",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "D9sEbDaUgNQGbW7C3HKowrxHudjFj6w1UKatb5aqyMnb",
+        "share": 100
+      }
+    ]
+  }
+}
